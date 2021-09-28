@@ -1,0 +1,31 @@
+{
+    "token": "NzQxNjgwOTE3OTMxNjIyNDUw.Xy7GLg.EQ_VADgRVCS2HX4CM12lpYJG3kU",
+    "Master": "589662899212124163",
+    "prefix": "<",
+
+    "bdd": {
+        "HOST": "sql01.hebergnity.com",
+        "USER": "NITYDB-20430212",
+        "MDP": "5N8fpEckTQMP05W",
+        "DB": "NITYDB-20430212"
+    },
+
+    "presence": {
+        "status": "Online",
+        "games": [{
+                "type": "STREAMING",
+                "name": "❤️",
+                "url": "https://adolite.fr"
+            },
+
+            {
+                "type": "STREAMING",
+                "name": "Adolite",
+                "url": "https://adolite.fr"
+            }
+        ],
+        "interval": 15
+    }
+
+
+}
